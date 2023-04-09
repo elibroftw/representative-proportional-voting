@@ -1,0 +1,339 @@
+jurisdiction,district_number,district_name,total_party_votes,total_votes,fptp_winner,fptp_party,fptp_is_independent,rpv_winner,result_change,rpv_party
+Quebec,24029,Honoré-Mercier,48409,48409,"Rodriguez, Pablo",Liberal,False,"Rodriguez, Pablo",False,Liberal
+Ontario,35013,Brantford–Brant,65826,66122,"Brock, Larry",Conservative,False,"Brock, Larry",False,Conservative
+Quebec,24023,Compton–Stanstead,57610,57796,"Bibeau, Marie-Claude",Liberal,False,"Bibeau, Marie-Claude",False,Liberal
+Quebec,24038,Laurentides–Labelle,63943,64123,"Gaudreau, Marie-Hélène",Bloc Québécois,False,"Gaudreau, Marie-Hélène",False,Bloc Québécois
+Ontario,35001,Ajax,49758,49758,"Holland, Mark",Liberal,False,"Holland, Mark",False,Liberal
+Quebec,24078,Vimy,50862,50862,"Koutrakis, Annie",Liberal,False,"Koutrakis, Annie",False,Liberal
+Quebec,24025,Drummond,51189,51189,"Champoux, Martin",Bloc Québécois,False,"Champoux, Martin",False,Bloc Québécois
+New Brunswick,13003,Fredericton,43752,44062,"Atwin, Jenica",Liberal,False,"O'Byrne, Nicole",True,Green Party
+Quebec,24075,Terrebonne,58949,58949,"Sinclair-Desgagné, Nathalie",Bloc Québécois,False,"Sinclair-Desgagné, Nathalie",False,Bloc Québécois
+Nova Scotia,12002,Central Nova,40109,40474,"Fraser, Sean",Liberal,False,"Fraser, Sean",False,Liberal
+Nova Scotia,12008,Sackville–Preston–Chezzetcook,45606,45606,"Samson, Darrell",Liberal,False,"Chisholm, Jenna",True,NDP-New Democratic Party
+Ontario,35022,Dufferin–Caledon,65366,65573,"Seeback, Kyle",Conservative,False,"Seeback, Kyle",False,Conservative
+Nova Scotia,12007,Kings–Hants,44956,44956,"Blois, Kody",Liberal,False,"Blois, Kody",False,Liberal
+Nova Scotia,12001,Cape Breton–Canso,39360,39360,"Kelloway, Mike",Liberal,False,"Kelloway, Mike",False,Liberal
+Quebec,24021,Châteauguay–Lacolle,48683,48683,"Shanahan, Brenda",Liberal,False,"Shanahan, Brenda",False,Liberal
+Quebec,24042,Lévis–Lotbinière,63407,63407,"Gourde, Jacques",Conservative,False,"Gourde, Jacques",False,Conservative
+Quebec,24030,Hull–Aylmer,51106,51249,"Fergus, Greg",Liberal,False,"Fergus, Greg",False,Liberal
+Ontario,35009,Brampton East,41351,41351,"Sidhu, Maninder",Liberal,False,"Sidhu, Maninder",False,Liberal
+Quebec,24020,Beauport–Côte-de-Beaupré–Île d'Orléans–Charlevoix,49909,50136,"Desbiens, Caroline",Bloc Québécois,False,"Laprise, Véronique",True,Conservative
+Quebec,24022,Chicoutimi–Le Fjord,42006,42006,"Martel, Richard",Conservative,False,"Martel, Richard",False,Conservative
+Quebec,24069,Saint-Léonard–Saint-Michel,41814,41814,"Lattanzio, Patricia",Liberal,False,"Lattanzio, Patricia",False,Liberal
+Ontario,35020,Don Valley North,40535,40535,"Dong, Han",Liberal,False,"Dong, Han",False,Liberal
+Prince Edward Island,11003,Egmont,19561,19561,"Morrissey, Bobby",Liberal,False,"Clark, Alex",True,Green Party
+Quebec,24019,Charlesbourg–Haute-Saint-Charles,57349,57349,"Paul-Hus, Pierre",Conservative,False,"Paul-Hus, Pierre",False,Conservative
+Quebec,24031,Joliette,56198,56198,"Ste-Marie, Gabriel",Bloc Québécois,False,"Ste-Marie, Gabriel",False,Bloc Québécois
+Quebec,24068,Saint-Laurent,37317,37317,"Lambropoulos, Emmanuella",Liberal,False,"Lambropoulos, Emmanuella",False,Liberal
+Prince Edward Island,11002,Charlottetown,19100,19100,"Casey, Sean",Liberal,False,"Lanthier, Darcie",True,Green Party
+Quebec,24049,Montarville,57472,57472,"Bergeron, Stéphane",Bloc Québécois,False,"Bergeron, Stéphane",False,Bloc Québécois
+Prince Edward Island,11004,Malpeque,23707,23707,"MacDonald, Heath",Liberal,False,"Keenan, Anna",True,Green Party
+Quebec,24067,Saint-Jean,59210,59210,"Normandin, Christine",Bloc Québécois,False,"Normandin, Christine",False,Bloc Québécois
+Prince Edward Island,11001,Cardigan,22094,22094,"MacAulay, Lawrence",Liberal,False,"MacAulay, Lawrence",False,Liberal
+Ontario,35014,Bruce–Grey–Owen Sound,57890,58414,"Ruff, Alex",Conservative,False,"Ruff, Alex",False,Conservative
+Quebec,24066,Saint-Hyacinthe–Bagot,53031,53031,"Savard-Tremblay, Simon-Pierre",Bloc Québécois,False,"Savard-Tremblay, Simon-Pierre",False,Bloc Québécois
+Quebec,24070,Saint-Maurice–Champlain,56096,56337,"Champagne, François-Philippe",Liberal,False,"Champagne, François-Philippe",False,Liberal
+Quebec,24065,Marc-Aurèle-Fortin,52127,52127,"Robillard, Yves",Liberal,False,"Robillard, Yves",False,Liberal
+Quebec,24071,Salaberry–Suroît,60865,60865,"Debellefeuille, Claude",Bloc Québécois,False,"Debellefeuille, Claude",False,Bloc Québécois
+Ontario,35008,Brampton Centre,33147,33971,"Ali, Shafqat",Liberal,False,"Ali, Shafqat",False,Liberal
+Quebec,24028,Hochelaga,47706,47706,"Martinez Ferrada, Soraya",Liberal,False,"Martinez Ferrada, Soraya",False,Liberal
+Quebec,24014,Pierre-Boucher–Les Patriotes–Verchères,55246,55246,"Barsalou-Duval, Xavier",Bloc Québécois,False,"Barsalou-Duval, Xavier",False,Bloc Québécois
+Quebec,24064,Rosemont–La Petite-Patrie,54988,54988,"Boulerice, Alexandre",NDP-New Democratic Party,False,"Boulerice, Alexandre",False,NDP-New Democratic Party
+Quebec,24072,Shefford,59626,59626,"Larouche, Andréanne",Bloc Québécois,False,"Larouche, Andréanne",False,Bloc Québécois
+Quebec,24063,Rivière-du-Nord,57329,57329,"Fortin, Rhéal",Bloc Québécois,False,"Fortin, Rhéal",False,Bloc Québécois
+Quebec,24013,Thérèse-De Blainville,52288,52288,"Chabot, Louise",Bloc Québécois,False,"Chabot, Louise",False,Bloc Québécois
+Newfoundland and Labrador,10006,St. John's East,38171,38171,"Thompson, Joanne",Liberal,False,"Shortall, Mary",True,NDP-New Democratic Party
+Quebec,24039,Laurier–Sainte-Marie,44602,44676,"Guilbeault, Steven",Liberal,False,"Machouf, Nimâ",True,NDP-New Democratic Party
+Newfoundland and Labrador,10005,Long Range Mountains,36447,36447,"Hutchings, Gudie",Liberal,False,"Anstey, Carol",True,Conservative
+Quebec,24032,Jonquière,45474,45474,"Simard, Mario",Bloc Québécois,False,"Simard, Mario",False,Bloc Québécois
+Newfoundland and Labrador,10007,St. John's South–Mount Pearl,34676,34676,"O'Regan, Seamus",Liberal,False,"O'Regan, Seamus",False,Liberal
+Quebec,24062,Rivière-des-Mille-Îles,53366,53366,"Desilets, Luc",Bloc Québécois,False,"Duffy-Vincelette, Marc",True,Conservative
+Quebec,24016,Brome–Missisquoi,61326,61471,"St-Onge, Pascale",Liberal,False,"Duhamel, Vincent",True,Conservative
+Quebec,24059,Québec,51191,51191,"Duclos, Jean-Yves",Liberal,False,"Boutin, Bianca",True,Conservative
+Nova Scotia,12003,Cumberland–Colchester,40139,40417,"Ellis, Stephen",Conservative,False,"Ellis, Stephen",False,Conservative
+Quebec,24073,Sherbrooke,58185,58185,"Brière, Élisabeth",Liberal,False,"Brière, Élisabeth",False,Liberal
+Ontario,35032,Guelph,69771,69771,"Longfield, Lloyd",Liberal,False,"Longfield, Lloyd",False,Liberal
+Newfoundland and Labrador,10003,Coast of Bays–Central–Notre Dame,31834,31834,"Small, Clifford",Conservative,False,"Small, Clifford",False,Conservative
+Quebec,24024,Dorval–Lachine–LaSalle,48141,48141,"Dhillon, Anju",Liberal,False,"Dhillon, Anju",False,Liberal
+Quebec,24015,Bourassa,36781,36932,"Dubourg, Emmanuel",Liberal,False,"Dubourg, Emmanuel",False,Liberal
+Quebec,24054,Outremont,36727,36820,"Bendayan, Rachel",Liberal,False,"Péclet, Ève",True,NDP-New Democratic Party
+Quebec,24008,Beauport–Limoilou,48644,48644,"Vignola, Julie",Bloc Québécois,False,"Clarke, Alupa",True,Conservative
+Quebec,24017,Brossard–Saint-Lambert,52356,52356,"Mendès, Alexandra",Liberal,False,"Mendès, Alexandra",False,Liberal
+Quebec,24009,Bécancour–Nicolet–Saurel,50007,50007,"Plamondon, Louis",Bloc Québécois,False,"Plamondon, Louis",False,Bloc Québécois
+Ontario,35030,Flamborough–Glanbrook,60069,60069,"Muys, Dan",Conservative,False,"Muys, Dan",False,Conservative
+Quebec,24055,Papineau,45224,45423,"Trudeau, Justin",Liberal,False,"Trudeau, Justin",False,Liberal
+Quebec,24053,Notre-Dame-de-Grâce–Westmount,45591,45591,"Garneau, Marc",Liberal,False,"Garneau, Marc",False,Liberal
+Quebec,24052,Mont-Royal,40362,40362,"Housefather, Anthony",Liberal,False,"Housefather, Anthony",False,Liberal
+Quebec,24007,Beauce,56980,56980,"Lehoux, Richard",Conservative,False,"Bernier, Maxime",True,People's Party - PPC
+Newfoundland and Labrador,10002,Bonavista–Burin–Trinity,29991,29991,"Rogers, Churence",Liberal,False,"Rogers, Churence",False,Liberal
+Ontario,35029,Etobicoke North,35248,35564,"Duncan, Kirsty",Liberal,False,"Duncan, Kirsty",False,Liberal
+Quebec,24058,Portneuf–Jacques-Cartier,65216,65216,"Godin, Joël",Conservative,False,"Godin, Joël",False,Conservative
+Quebec,24011,Beloeil–Chambly,65324,65324,"Blanchet, Yves-François",Bloc Québécois,False,"Blanchet, Yves-François",False,Bloc Québécois
+Newfoundland and Labrador,10004,Labrador,9653,9653,"Jones, Yvonne",Liberal,False,"Jones, Yvonne",False,Liberal
+Quebec,24076,Trois-Rivières,58110,58110,"Villemure, René",Bloc Québécois,False,"Levesque, Yves",True,Conservative
+Quebec,24051,Montmagny–L'Islet–Kamouraska–Rivière-du-Loup,47812,47812,"Généreux, Bernard",Conservative,False,"Généreux, Bernard",False,Conservative
+Newfoundland and Labrador,10001,Avalon,37144,37144,"McDonald, Ken",Liberal,False,"McDonald, Ken",False,Liberal
+Quebec,24012,Berthier–Maskinongé,54945,54945,"Perron, Yves",Bloc Québécois,False,"Brosseau, Ruth Ellen",True,NDP-New Democratic Party
+Quebec,24004,Alfred-Pellan,51256,51256,"Iacono, Angelo",Liberal,False,"Iacono, Angelo",False,Liberal
+Ontario,35028,Etobicoke–Lakeshore,64065,64065,"Maloney, James",Liberal,False,"Maloney, James",False,Liberal
+Quebec,24057,Pontiac,62007,62007,"Chatel, Sophie",Liberal,False,"Chatel, Sophie",False,Liberal
+Quebec,24047,Mégantic–L'Érable,46025,46428,"Berthold, Luc",Conservative,False,"Berthold, Luc",False,Conservative
+Ontario,35019,Don Valley East,37325,37325,"Coteau, Michael",Liberal,False,"Coteau, Michael",False,Liberal
+Quebec,24077,Ville-Marie–Le Sud-Ouest–Île-des-Soeurs,49423,49423,"Miller, Marc",Liberal,False,"Miller, Marc",False,Liberal
+Quebec,24006,Avignon–La Mitis–Matane–Matapédia,33075,33075,"Michaud, Kristina",Bloc Québécois,False,"Michaud, Kristina",False,Bloc Québécois
+Quebec,24001,Abitibi–Baie-James–Nunavik–Eeyou,28436,28436,"Bérubé, Sylvie",Bloc Québécois,False,"Corriveau, Steve",True,Conservative
+New Brunswick,13010,Tobique–Mactaquac,34002,34400,"Bragdon, Richard",Conservative,False,"Bragdon, Richard",False,Conservative
+Quebec,24046,Manicouagan,35000,35000,"Gill, Marilène",Bloc Québécois,False,"Gill, Marilène",False,Bloc Québécois
+Quebec,24056,Pierrefonds–Dollard,52306,52306,"Zuberi, Sameer",Liberal,False,"Zuberi, Sameer",False,Liberal
+Ontario,35018,Davenport,47144,47307,"Dzerowicz, Julie",Liberal,False,"Bravo, Alejandra",True,NDP-New Democratic Party
+Quebec,24003,Ahuntsic-Cartierville,50409,50409,"Joly, Mélanie",Liberal,False,"Joly, Mélanie",False,Liberal
+New Brunswick,13009,Saint John–Rothesay,37450,37450,"Long, Wayne",Liberal,False,"Long, Wayne",False,Liberal
+Ontario,35016,Cambridge,54852,54852,"May, Bryan",Liberal,False,"Cody, Connie",True,Conservative
+Ontario,35017,Chatham-Kent–Leamington,54854,54854,"Epp, Dave",Conservative,False,"Vallee, Liz",True,People's Party - PPC
+Quebec,24044,Louis-Hébert,59422,59800,"Lightbound, Joël",Liberal,False,"Lightbound, Joël",False,Liberal
+Ontario,35025,Elgin–Middlesex–London,63058,63058,"Vecchio, Karen",Conservative,False,"Hillier, Chelsea",True,People's Party - PPC
+New Brunswick,13007,Moncton–Riverview–Dieppe,45762,45762,"Petitpas Taylor, Ginette",Liberal,False,"Petitpas Taylor, Ginette",False,Liberal
+Quebec,24043,Longueuil–Saint-Hubert,57235,57235,"Trudel, Denis",Bloc Québécois,False,"Trudel, Denis",False,Bloc Québécois
+Quebec,24045,Louis-Saint-Laurent,64098,64098,"Deltell, Gérard",Conservative,False,"Deltell, Gérard",False,Conservative
+Quebec,24060,Repentigny,59701,59701,"Pauzé, Monique",Bloc Québécois,False,"Pauzé, Monique",False,Bloc Québécois
+Quebec,24048,Mirabel,63112,63112,"Garon, Jean-Denis",Bloc Québécois,False,"Garon, Jean-Denis",False,Bloc Québécois
+Ontario,35012,Brampton West,46281,46609,"Khera, Kamal",Liberal,False,"Khera, Kamal",False,Liberal
+New Brunswick,13008,New Brunswick Southwest,36629,36629,"Williamson, John",Conservative,False,"Williamson, John",False,Conservative
+Ontario,35007,Beaches–East York,50950,51116,"Erskine-Smith, Nathaniel",Liberal,False,"Erskine-Smith, Nathaniel",False,Liberal
+Quebec,24002,Abitibi–Témiscamingue,45685,45685,"Lemire, Sébastien",Bloc Québécois,False,"Lemire, Sébastien",False,Bloc Québécois
+Quebec,24036,Lac-Saint-Louis,57725,57725,"Scarpaleggia, Francis",Liberal,False,"Scarpaleggia, Francis",False,Liberal
+New Brunswick,13002,Beauséjour,49145,49145,"LeBlanc, Dominic",Liberal,False,"LeBlanc, Dominic",False,Liberal
+Quebec,24037,LaSalle–Émard–Verdun,47360,47360,"Lametti, David",Liberal,False,"Lametti, David",False,Liberal
+Ontario,35011,Brampton South,41430,41430,"Sidhu, Sonia",Liberal,False,"Sidhu, Sonia",False,Liberal
+Ontario,35024,Eglinton–Lawrence,49611,49611,"Mendicino, Marco",Liberal,False,"Mendicino, Marco",False,Liberal
+New Brunswick,13004,Fundy Royal,44382,44382,"Moore, Rob",Conservative,False,"Moore, Rob",False,Conservative
+Quebec,24005,Argenteuil–La Petite-Nation,50613,50613,"Lauzon, Stéphane",Liberal,False,"Lauzon, Stéphane",False,Liberal
+Ontario,35023,Durham,67430,67730,"O'Toole, Erin",Conservative,False,"O'Toole, Erin",False,Conservative
+New Brunswick,13001,Acadie–Bathurst,42922,42922,"Cormier, Serge",Liberal,False,"Cormier, Serge",False,Liberal
+Ontario,35010,Brampton North,43149,43149,"Sahota, Ruby",Liberal,False,"Sahota, Ruby",False,Liberal
+Quebec,24018,Rimouski-Neigette–Témiscouata–Les Basques,40671,42138,"Blanchette-Joncas, Maxime",Bloc Québécois,False,"Blanchette-Joncas, Maxime",False,Bloc Québécois
+Nova Scotia,12011,West Nova,43871,43871,"d'Entremont, Chris",Conservative,False,"d'Entremont, Chris",False,Conservative
+Quebec,24050,Montcalm,51452,51452,"Thériault, Luc",Bloc Québécois,False,"Thériault, Luc",False,Bloc Québécois
+Nova Scotia,12010,Sydney–Victoria,36312,36312,"Battiste, Jaime",Liberal,False,"Orrell, Eddie",True,Conservative
+Quebec,24034,La Prairie,59140,59140,"Therrien, Alain",Bloc Québécois,False,"Therrien, Alain",False,Bloc Québécois
+New Brunswick,13006,Miramichi–Grand Lake,32503,32503,"Stewart, Jake",Conservative,False,"Stewart, Jake",False,Conservative
+Ontario,35006,Bay of Quinte,61700,61700,"Williams, Ryan",Conservative,False,"Williams, Ryan",False,Conservative
+Quebec,24035,Lac-Saint-Jean,50197,50197,"Brunelle-Duceppe, Alexis",Bloc Québécois,False,"Brunelle-Duceppe, Alexis",False,Bloc Québécois
+Ontario,35005,Barrie–Springwater–Oro-Medonte,52239,52239,"Shipley, Doug",Conservative,False,"Shipley, Doug",False,Conservative
+Quebec,24040,Laval–Les Îles,50578,50578,"El-Khoury, Fayçal",Liberal,False,"El-Khoury, Fayçal",False,Liberal
+Quebec,24033,La Pointe-de-l'Île,51080,51080,"Beaulieu, Mario",Bloc Québécois,False,"Beaulieu, Mario",False,Bloc Québécois
+Nova Scotia,12009,South Shore–St. Margarets,50004,50004,"Perkins, Rick",Conservative,False,"Perkins, Rick",False,Conservative
+Nova Scotia,12005,Halifax,51248,51248,"Fillmore, Andy",Liberal,False,"Roberts, Lisa",True,NDP-New Democratic Party
+Ontario,35004,Barrie–Innisfil,52935,52935,"Brassard, John",Conservative,False,"Brassard, John",False,Conservative
+New Brunswick,13005,Madawaska–Restigouche,30546,30546,"Arseneault, René",Liberal,False,"Arseneault, René",False,Liberal
+Nova Scotia,12006,Halifax West,51031,51031,"Diab, Lena Metlege",Liberal,False,"Diab, Lena Metlege",False,Liberal
+Nova Scotia,12004,Dartmouth–Cole Harbour,45628,45628,"Fisher, Darren",Liberal,False,"Fisher, Darren",False,Liberal
+Quebec,24041,Longueuil–Charles-LeMoyne,47970,47970,"Romanado, Sherry",Liberal,False,"Romanado, Sherry",False,Liberal
+Quebec,24026,Gaspésie–Les Îles-de-la-Madeleine,36858,36858,"Lebouthillier, Diane",Liberal,False,"Lebouthillier, Diane",False,Liberal
+Ontario,35003,Aurora–Oak Ridges–Richmond Hill,45896,45896,"Taylor Roy, Leah",Liberal,False,"Alleslev, Leona",True,Conservative
+Quebec,24027,Gatineau,52497,52497,"MacKinnon, Steven",Liberal,False,"MacKinnon, Steven",False,Liberal
+Quebec,24010,Bellechasse–Les Etchemins–Lévis,62876,63182,"Vien, Dominique",Conservative,False,"Vien, Dominique",False,Conservative
+Ontario,35002,Algoma–Manitoulin–Kapuskasing,39523,39523,"Hughes, Carol",NDP-New Democratic Party,False,"Hughes, Carol",False,NDP-New Democratic Party
+Ontario,35027,Etobicoke Centre,57550,57550,"Baker, Yvan",Liberal,False,"Baker, Yvan",False,Liberal
+Ontario,35015,Burlington,69105,69105,"Gould, Karina",Liberal,False,"Gould, Karina",False,Liberal
+Quebec,24061,Richmond–Arthabaska,57159,57159,"Rayes, Alain",Conservative,False,"Rayes, Alain",False,Conservative
+Ontario,35021,Don Valley West,47014,47014,"Oliphant, Rob",Liberal,False,"Oliphant, Rob",False,Liberal
+Ontario,35033,Haldimand–Norfolk,62592,62592,"Lewis, Leslyn",Conservative,False,"Gilpin, Ken",True,People's Party - PPC
+Ontario,35036,Hamilton East–Stoney Creek,49793,49793,"Collins, Chad",Liberal,False,"Kuruc, Ned",True,Conservative
+Ontario,35035,Hamilton Centre,41181,41280,"Green, Matthew",NDP-New Democratic Party,False,"Green, Matthew",False,NDP-New Democratic Party
+Ontario,35034,Haliburton–Kawartha Lakes–Brock,67721,67721,"Schmale, Jamie",Conservative,False,"Schmale, Jamie",False,Conservative
+Ontario,35046,Kitchener–Conestoga,50953,50953,"Louis, Tim",Liberal,False,"Hawley, Carlene",True,Conservative
+Ontario,35031,Glengarry–Prescott–Russell,65593,65907,"Drouin, Francis",Liberal,False,"Drouin, Francis",False,Liberal
+Ontario,35048,Lambton–Kent–Middlesex,60692,60692,"Rood, Lianne",Conservative,False,"Mitchell, Kevin",True,People's Party - PPC
+Ontario,35047,Kitchener South–Hespeler,49535,49654,"Bradford, Valerie",Liberal,False,"Calver, Tyler",True,Conservative
+Ontario,35042,Kenora,26083,26083,"Melillo, Eric",Conservative,False,"Seymour, Janine",True,NDP-New Democratic Party
+Ontario,35026,Essex,69804,69976,"Lewis, Chris",Conservative,False,"Ramsey, Tracey",True,NDP-New Democratic Party
+Ontario,35045,Kitchener Centre,51179,51179,"Morrice, Mike",Green Party,False,"Morrice, Mike",False,Green Party
+Ontario,35043,King–Vaughan,49995,49995,"Roberts, Anna",Conservative,False,"Roberts, Anna",False,Conservative
+Ontario,35049,Lanark–Frontenac–Kingston,62911,62911,"Reid, Scott",Conservative,False,"Reid, Scott",False,Conservative
+Quebec,24074,Vaudreuil–Soulanges,64564,64564,"Schiefke, Peter",Liberal,False,"Schiefke, Peter",False,Liberal
+Ontario,35037,Hamilton Mountain,48460,48460,"Hepfner, Lisa",Liberal,False,"Allen, Malcolm",True,NDP-New Democratic Party
+Ontario,35038,Hamilton West–Ancaster–Dundas,62821,62821,"Tassi, Filomena",Liberal,False,"Tassi, Filomena",False,Liberal
+Ontario,35054,Markham–Stouffville,58392,58392,"Jaczek, Helena",Liberal,False,"Jaczek, Helena",False,Liberal
+Ontario,35051,London–Fanshawe,51422,51422,"Mathyssen, Lindsay",NDP-New Democratic Party,False,"Mathyssen, Lindsay",False,NDP-New Democratic Party
+Ontario,35059,Mississauga East–Cooksville,45246,45575,"Fonseca, Peter",Liberal,False,"Fonseca, Peter",False,Liberal
+Ontario,35060,Mississauga–Erin Mills,50672,50672,"Khalid, Iqra",Liberal,False,"Khalid, Iqra",False,Liberal
+Ontario,35040,Huron–Bruce,60678,61197,"Lobb, Ben",Conservative,False,"Lobb, Ben",False,Conservative
+Ontario,35056,Markham–Unionville,45224,45224,"Chiang, Paul",Liberal,False,"Chiang, Paul",False,Liberal
+Ontario,35053,London West,68621,68621,"Kayabaga, Arielle",Liberal,False,"Flack, Rob",True,Conservative
+Ontario,35055,Markham–Thornhill,38528,38528,"Ng, Mary",Liberal,False,"Ng, Mary",False,Liberal
+Ontario,35064,Nepean,65748,65748,"Arya, Chandra",Liberal,False,"Arya, Chandra",False,Liberal
+Ontario,35052,London North Centre,58620,58620,"Fragiskatos, Peter",Liberal,False,"Prout, Dirka",True,NDP-New Democratic Party
+Ontario,35070,Nipissing–Timiskaming,47496,47496,"Rota, Anthony",Liberal,False,"Rota, Anthony",False,Liberal
+Ontario,35044,Kingston and the Islands,67505,67505,"Gerretsen, Mark",Liberal,False,"Sahai, Vic",True,NDP-New Democratic Party
+Ontario,35068,Niagara West,55277,55277,"Allison, Dean",Conservative,False,"Allison, Dean",False,Conservative
+Ontario,35041,Kanata–Carleton,63156,63156,"Sudds, Jenna",Liberal,False,"McAndrew, Jennifer",True,Conservative
+Ontario,35063,Mississauga–Streetsville,50124,50124,"Valdez, Rechie",Liberal,False,"Valdez, Rechie",False,Liberal
+Ontario,35057,Milton,55386,55386,"van Koeverden, Adam",Liberal,False,"van Koeverden, Adam",False,Liberal
+Ontario,35039,Hastings–Lennox and Addington,53829,54667,"Kramp-Neuman, Shelby",Conservative,False,"Kramp-Neuman, Shelby",False,Conservative
+Ontario,35066,Niagara Centre,58779,58779,"Badawey, Vance",Liberal,False,"Speck, Graham",True,Conservative
+Ontario,35075,Ottawa Centre,74209,74341,"Naqvi, Yasir",Liberal,False,"MacEwen, Angella",True,NDP-New Democratic Party
+Ontario,35061,Mississauga–Lakeshore,56259,56259,"Spengemann, Sven",Liberal,False,"Spengemann, Sven",False,Liberal
+Ontario,35079,Ottawa West–Nepean,57402,57402,"Vandenbeld, Anita",Liberal,False,"Vandenbeld, Anita",False,Liberal
+Ontario,35050,Leeds–Grenville–Thousand Islands and Rideau Lakes,59276,59276,"Barrett, Michael",Conservative,False,"Barrett, Michael",False,Conservative
+Ontario,35069,Nickel Belt,49321,49321,"Serré, Marc G",Liberal,False,"Chénier, Andréane Simone",True,NDP-New Democratic Party
+Ontario,35073,Oakville North–Burlington,66023,66023,"Damoff, Pam",Liberal,False,"Damoff, Pam",False,Liberal
+Ontario,35065,Newmarket–Aurora,55030,55290,"Van Bynen, Tony",Liberal,False,"Kim, Harold",True,Conservative
+Ontario,35082,Parry Sound–Muskoka,55331,55500,"Aitchison, Scott",Conservative,False,"Aitchison, Scott",False,Conservative
+Ontario,35067,Niagara Falls,70649,70649,"Baldinelli, Tony",Conservative,False,"Baldinelli, Tony",False,Conservative
+Ontario,35071,Northumberland–Peterborough South,69737,69737,"Lawrence, Philip",Conservative,False,"Lawrence, Philip",False,Conservative
+Ontario,35087,Richmond Hill,44857,45662,"Jowhari, Majid",Liberal,False,"Jowhari, Majid",False,Liberal
+Ontario,35088,Carleton,70873,70873,"Poilievre, Pierre",Conservative,False,"Poilievre, Pierre",False,Conservative
+Ontario,35076,Orléans,75283,75283,"Lalonde, Marie-France",Liberal,False,"Lalonde, Marie-France",False,Liberal
+Ontario,35089,St. Catharines,58332,58332,"Bittle, Chris",Liberal,False,"Waler, Krystina",True,Conservative
+Ontario,35083,Perth–Wellington,55577,55577,"Nater, John",Conservative,False,"Nater, John",False,Conservative
+Ontario,35080,Oxford,61948,61948,"MacKenzie, Dave",Conservative,False,"Martin, Wendy",True,People's Party - PPC
+Ontario,35091,Sarnia–Lambton,56899,56899,"Gladu, Marilyn",Conservative,False,"Everaert, Brian",True,People's Party - PPC
+Ontario,35077,Ottawa South,59492,59492,"McGuinty, David",Liberal,False,"McGuinty, David",False,Liberal
+Ontario,35086,Renfrew–Nipissing–Pembroke,58145,58518,"Gallant, Cheryl",Conservative,False,"Gallant, Cheryl",False,Conservative
+Ontario,35096,Scarborough North,31815,31815,"Chen, Shaun",Liberal,False,"Chen, Shaun",False,Liberal
+Ontario,35085,Pickering–Uxbridge,58167,58167,"O'Connell, Jennifer",Liberal,False,"O'Connell, Jennifer",False,Liberal
+Ontario,35094,Scarborough Centre,40161,40161,"Zahid, Salma",Liberal,False,"Zahid, Salma",False,Liberal
+Ontario,35074,Oshawa,56425,56425,"Carrie, Colin",Conservative,False,"Panylo, Shailene",True,NDP-New Democratic Party
+Ontario,35062,Mississauga–Malton,41248,41248,"Gaheer, Iqwinder",Liberal,False,"Gaheer, Iqwinder",False,Liberal
+Ontario,35084,Peterborough–Kawartha,69994,70212,"Ferreri, Michelle",Conservative,False,"Ferreri, Michelle",False,Conservative
+Ontario,35081,Parkdale–High Park,52543,52543,"Virani, Arif",Liberal,False,"Taylor, Paul",True,NDP-New Democratic Party
+Ontario,35058,Mississauga Centre,47431,47431,"Alghabra, Omar",Liberal,False,"Alghabra, Omar",False,Liberal
+Ontario,35090,Toronto–St. Paul's,53698,53698,"Bennett, Carolyn",Liberal,False,"Bennett, Carolyn",False,Liberal
+Ontario,35092,Sault Ste. Marie,40179,40179,"Sheehan, Terry",Liberal,False,"Spina, Sonny",True,Conservative
+Ontario,35078,Ottawa–Vanier,57874,58031,"Fortier, Mona",Liberal,False,"Fortier, Mona",False,Liberal
+Ontario,35093,Scarborough–Agincourt,36630,36630,"Yip, Jean",Liberal,False,"Yip, Jean",False,Liberal
+Ontario,35097,Scarborough–Rouge Park,45720,45720,"Anandasangaree, Gary",Liberal,False,"Anandasangaree, Gary",False,Liberal
+Ontario,35109,Toronto–Danforth,52019,52142,"Dabrusin, Julie",Liberal,False,"Hacksel, Clare",True,NDP-New Democratic Party
+Ontario,35095,Scarborough–Guildwood,37310,37550,"McKay, John",Liberal,False,"McKay, John",False,Liberal
+Ontario,35101,Spadina–Fort York,48821,48821,"Vuong, Kevin",Liberal,False,"Di Pasquale, Norm",True,NDP-New Democratic Party
+Ontario,35099,Simcoe–Grey,76610,76610,"Dowdall, Terry",Conservative,False,"Dowdall, Terry",False,Conservative
+Ontario,35100,Simcoe North,63608,63608,"Chambers, Adam",Conservative,False,"Chambers, Adam",False,Conservative
+Ontario,35098,Scarborough Southwest,43055,43172,"Blair, Bill",Liberal,False,"Blair, Bill",False,Liberal
+Ontario,35102,Stormont–Dundas–South Glengarry,52653,52653,"Duncan, Eric",Conservative,False,"Duncan, Eric",False,Conservative
+Ontario,35107,Timmins–James Bay,34570,34570,"Angus, Charlie",NDP-New Democratic Party,False,"MacLeod, Stephen",True,People's Party - PPC
+Ontario,35103,Sudbury,45862,45973,"LaPointe, Viviane",Liberal,False,"Verrelli, Nadia",True,NDP-New Democratic Party
+Ontario,35104,Thornhill,50062,50062,"Lantsman, Melissa",Conservative,False,"Lantsman, Melissa",False,Conservative
+Ontario,35106,Thunder Bay–Superior North,41483,41483,"Hajdu, Patty",Liberal,False,"Bryson, Chantelle",True,NDP-New Democratic Party
+Ontario,35121,Humber River–Black Creek,32187,32187,"Sgro, Judy",Liberal,False,"Sgro, Judy",False,Liberal
+Manitoba,46003,Churchill–Keewatinook Aski,17927,17927,"Ashton, Niki",NDP-New Democratic Party,False,"Ashton, Niki",False,NDP-New Democratic Party
+Ontario,35110,University–Rosedale,47235,47235,"Freeland, Chrystia",Liberal,False,"Freeland, Chrystia",False,Liberal
+Ontario,35115,Willowdale,41104,41104,"Ehsassi, Ali",Liberal,False,"Ehsassi, Ali",False,Liberal
+Ontario,35111,Vaughan–Woodbridge,47003,47162,"Sorbara, Francesco",Liberal,False,"Sorbara, Francesco",False,Liberal
+Manitoba,46004,Dauphin–Swan River–Neepawa,38514,38514,"Mazier, Dan",Conservative,False,"McKenna, Donnan",True,People's Party - PPC
+Ontario,35072,Oakville,61000,61000,"Anand, Anita",Liberal,False,"Anand, Anita",False,Liberal
+Ontario,35114,Whitby,62066,62066,"Turnbull, Ryan",Liberal,False,"Turnbull, Ryan",False,Liberal
+Manitoba,46008,Provencher,48535,49901,"Falk, Ted",Conservative,False,"Gautron, Nöel",True,People's Party - PPC
+Ontario,35119,York–Simcoe,49831,49831,"Davidson, Scot",Conservative,False,"Davidson, Scot",False,Conservative
+Ontario,35120,York South–Weston,38570,38570,"Hussen, Ahmed",Liberal,False,"Hussen, Ahmed",False,Liberal
+Manitoba,46012,Winnipeg North,31408,31408,"Lamoureux, Kevin",Liberal,False,"Lamoureux, Kevin",False,Liberal
+Manitoba,46002,Charleswood–St. James–Assiniboia–Headingley,45277,45277,"Morantz, Marty",Conservative,False,"Morantz, Marty",False,Conservative
+Manitoba,46014,Winnipeg South Centre,48771,48771,"Carr, Jim",Liberal,False,"Carr, Jim",False,Liberal
+Ontario,35112,Waterloo,59654,59654,"Chagger, Bardish",Liberal,False,"Chagger, Bardish",False,Liberal
+Manitoba,46006,Kildonan–St. Paul,43947,43947,"Dancho, Raquel",Conservative,False,"Dancho, Raquel",False,Conservative
+Saskatchewan,47005,Moose Jaw–Lake Centre–Lanigan,41184,41184,"Tolmie, Fraser",Conservative,False,"Craik, Chey",True,People's Party - PPC
+Saskatchewan,47007,Regina–Lewvan,45643,45643,"Steinley, Warren",Conservative,False,"Donaldson, Tria",True,NDP-New Democratic Party
+Manitoba,46007,Portage–Lisgar,45356,45356,"Bergen, Candice",Conservative,False,"Wiebe, Solomon",True,People's Party - PPC
+Ontario,35113,Wellington–Halton Hills,67656,67656,"Chong, Michael",Conservative,False,"Chong, Michael",False,Conservative
+Ontario,35117,Windsor West,48693,48693,"Masse, Brian",NDP-New Democratic Party,False,"Masse, Brian",False,NDP-New Democratic Party
+Ontario,35116,Windsor–Tecumseh,56977,56977,"Kusmierczyk, Irek",Liberal,False,"Hardcastle, Cheryl",True,NDP-New Democratic Party
+Ontario,35118,York Centre,36858,36858,"Saks, Ya'ara",Liberal,False,"Saks, Ya'ara",False,Liberal
+Manitoba,46011,Winnipeg Centre,29749,29749,"Gazan, Leah",NDP-New Democratic Party,False,"Gazan, Leah",False,NDP-New Democratic Party
+Manitoba,46013,Winnipeg South,47245,47245,"Duguid, Terry",Liberal,False,"Duguid, Terry",False,Liberal
+Manitoba,46001,Brandon–Souris,38160,38160,"Maguire, Larry",Conservative,False,"Maguire, Larry",False,Conservative
+Saskatchewan,47001,Battlefords–Lloydminster,31048,31048,"Falk, Rosemarie",Conservative,False,"Falk, Rosemarie",False,Conservative
+Saskatchewan,47002,Cypress Hills–Grasslands,34084,34277,"Patzer, Jeremy",Conservative,False,"Patzer, Jeremy",False,Conservative
+Ontario,35105,Thunder Bay–Rainy River,39860,39860,"Powlowski, Marcus",Liberal,False,"Won, Yuk-Sem",True,NDP-New Democratic Party
+Saskatchewan,47004,Carlton Trail–Eagle Creek,41089,41089,"Block, Kelly",Conservative,False,"Block, Kelly",False,Conservative
+Alberta,48005,Calgary Confederation,61631,61631,"Webber, Len",Conservative,False,"Webber, Len",False,Conservative
+Alberta,48001,Banff–Airdrie,76439,76988,"Richards, Blake",Conservative,False,"Richards, Blake",False,Conservative
+Saskatchewan,47006,Prince Albert ,34425,34425,"Hoback, Randy",Conservative,False,"Hoback, Randy",False,Conservative
+Alberta,48007,Calgary Heritage,53542,53542,"Benzen, Bob",Conservative,False,"Benzen, Bob",False,Conservative
+Manitoba,46010,Selkirk–Interlake–Eastman,49607,49607,"Bezan, James",Conservative,False,"Bezan, James",False,Conservative
+Manitoba,46009,Saint Boniface–Saint Vital,45175,45469,"Vandal, Dan",Liberal,False,"Vandal, Dan",False,Liberal
+Saskatchewan,47012,Saskatoon West,33906,33906,"Redekopp, Brad",Conservative,False,"Doucette, Robert",True,NDP-New Democratic Party
+Alberta,48009,Calgary Nose Hill,50393,50393,"Rempel Garner, Michelle",Conservative,False,"Rempel Garner, Michelle",False,Conservative
+Alberta,48014,Edmonton Centre,49148,49148,"Boissonnault, Randy",Liberal,False,"MacKenzie, Heather",True,NDP-New Democratic Party
+Saskatchewan,47013,Souris–Moose Mountain ,39340,39340,"Kitchen, Robert",Conservative,False,"Kitchen, Robert",False,Conservative
+Saskatchewan,47014,Yorkton–Melville ,34658,34658,"Wagantall, Cathay",Conservative,False,"Wagantall, Cathay",False,Conservative
+Alberta,48011,Calgary Shepard,73331,73559,"Kmiec, Tom",Conservative,False,"Kmiec, Tom",False,Conservative
+Ontario,35108,Toronto Centre,45817,45817,"Ien, Marci",Liberal,False,"Ien, Marci",False,Liberal
+Alberta,48020,Edmonton West,55989,55989,"McCauley, Kelly",Conservative,False,"McCauley, Kelly",False,Conservative
+Alberta,48003,Bow River,51138,51138,"Shields, Martin",Conservative,False,"Shields, Martin",False,Conservative
+Saskatchewan,47003,Desnethé–Missinippi–Churchill River,20334,20574,"Vidal, Gary",Conservative,False,"Vidal, Gary",False,Conservative
+Saskatchewan,47008,Regina–Qu'Appelle ,32959,32959,"Scheer, Andrew",Conservative,False,"Scheer, Andrew",False,Conservative
+Alberta,48022,Foothills,64216,64216,"Barlow, John",Conservative,False,"Barlow, John",False,Conservative
+Alberta,48012,Calgary Signal Hill,59707,59707,"Liepert, Ron",Conservative,False,"Liepert, Ron",False,Conservative
+Alberta,48015,Edmonton Griesbach,43059,43059,"Desjarlais, Blake",NDP-New Democratic Party,False,"Desjarlais, Blake",False,NDP-New Democratic Party
+Alberta,48008,Calgary Midnapore,64530,64530,"Kusie, Stephanie",Conservative,False,"Kusie, Stephanie",False,Conservative
+Manitoba,46005,Elmwood–Transcona,41839,41839,"Blaikie, Daniel",NDP-New Democratic Party,False,"Blaikie, Daniel",False,NDP-New Democratic Party
+Alberta,48016,Edmonton Manning,49226,49226,"Aboultaif, Ziad",Conservative,False,"St. Germain, Charmaine",True,NDP-New Democratic Party
+Alberta,48017,Edmonton Mill Woods,48514,48514,"Uppal, Tim",Conservative,False,"Uppal, Tim",False,Conservative
+Alberta,48013,Calgary Skyview,47249,47433,"Chahal, George",Liberal,False,"Sahota, Jag",True,Conservative
+Saskatchewan,47011,Saskatoon–University,42517,42517,"Tochor, Corey",Conservative,False,"Card, Claire",True,NDP-New Democratic Party
+Saskatchewan,47010,Saskatoon–Grasswood,45604,45604,"Waugh, Kevin",Conservative,False,"Kitzul, Kyla",True,NDP-New Democratic Party
+Alberta,48019,Edmonton Strathcona,52223,52223,"McPherson, Heather",NDP-New Democratic Party,False,"McPherson, Heather",False,NDP-New Democratic Party
+Alberta,48004,Calgary Centre,59208,59208,"McLean, Greg",Conservative,False,"McLean, Greg",False,Conservative
+British Columbia,59002,Burnaby North–Seymour,49184,49184,"Beech, Terry",Liberal,False,"Hanson, Jim",True,NDP-New Democratic Party
+Alberta,48024,Grande Prairie–Mackenzie,53140,53140,"Warkentin, Chris",Conservative,False,"Warkentin, Chris",False,Conservative
+Alberta,48023,Fort McMurray–Cold Lake,43150,43150,"Goodridge, Laila",Conservative,False,"McDonald, Shawn",True,People's Party - PPC
+British Columbia,59004,Cariboo–Prince George,50713,50713,"Doherty, Todd",Conservative,False,"Doherty, Todd",False,Conservative
+British Columbia,59007,Cloverdale–Langley City,53250,53250,"Aldag, John",Liberal,False,"Jansen, Tamara",True,Conservative
+Saskatchewan,47009,Regina–Wascana ,38600,38600,"Kram, Michael",Conservative,False,"Kram, Michael",False,Conservative
+British Columbia,59005,Central Okanagan–Similkameen–Nicola,64210,64210,"Albas, Dan",Conservative,False,"Albas, Dan",False,Conservative
+Alberta,48028,Peace River–Westlock,46789,46789,"Viersen, Arnold",Conservative,False,"Boisson, Darryl",True,People's Party - PPC
+Alberta,48002,Battle River–Crowfoot,58660,58660,"Kurek, Damien",Conservative,False,"Kurek, Damien",False,Conservative
+British Columbia,59014,Kelowna–Lake Country,67142,67142,"Gray, Tracy",Conservative,False,"Gray, Tracy",False,Conservative
+British Columbia,59013,Kamloops–Thompson–Cariboo,70038,70448,"Caputo, Frank",Conservative,False,"Sundhu, Bill",True,NDP-New Democratic Party
+Alberta,48030,Red Deer–Lacombe,61979,61979,"Calkins, Blaine",Conservative,False,"Lim, Megan",True,People's Party - PPC
+British Columbia,59015,Kootenay–Columbia,64965,64965,"Morrison, Rob",Conservative,False,"Stetski, Wayne",True,NDP-New Democratic Party
+Alberta,48006,Calgary Forest Lawn,34648,34648,"Hallan, Jasraj Singh",Conservative,False,"Hallan, Jasraj Singh",False,Conservative
+British Columbia,59019,New Westminster–Burnaby,49324,49324,"Julian, Peter",NDP-New Democratic Party,False,"Julian, Peter",False,NDP-New Democratic Party
+British Columbia,59016,Langley–Aldergrove,62635,62635,"Van Popta, Tako",Conservative,False,"Van Popta, Tako",False,Conservative
+Alberta,48018,Edmonton Riverbend,56928,56928,"Jeneroux, Matt",Conservative,False,"Jeneroux, Matt",False,Conservative
+Alberta,48025,Lakeland,52651,52651,"Stubbs, Shannon",Conservative,False,"Stubbs, Shannon",False,Conservative
+Alberta,48021,Edmonton–Wetaskiwin,86843,86843,"Lake, Mike",Conservative,False,"Lake, Mike",False,Conservative
+Alberta,48010,Calgary Rocky Ridge,66084,66084,"Kelly, Pat",Conservative,False,"Kelly, Pat",False,Conservative
+British Columbia,59006,Chilliwack–Hope,52160,52160,"Strahl, Mark",Conservative,False,"Pohl, DJ",True,NDP-New Democratic Party
+British Columbia,59008,Coquitlam–Port Coquitlam,55716,55716,"McKinnon, Ron",Liberal,False,"Dupont, Laura",True,NDP-New Democratic Party
+Alberta,48026,Lethbridge,57794,58973,"Harder, Rachael",Conservative,False,"Harder, Rachael",False,Conservative
+British Columbia,59011,Delta,51926,52305,"Qualtrough, Carla",Liberal,False,"Qualtrough, Carla",False,Liberal
+British Columbia,59030,South Surrey–White Rock,56905,56905,"Findlay, Kerry-Lynne",Conservative,False,"Findlay, Kerry-Lynne",False,Conservative
+Alberta,48029,Red Deer–Mountain View,63022,63320,"Dreeshen, Earl",Conservative,False,"Lorencz, Kelly",True,People's Party - PPC
+British Columbia,59026,Esquimalt–Saanich–Sooke,65542,65542,"Garrison, Randall",NDP-New Democratic Party,False,"Garrison, Randall",False,NDP-New Democratic Party
+British Columbia,59010,Cowichan–Malahat–Langford,63032,63032,"MacGregor, Alistair",NDP-New Democratic Party,False,"MacGregor, Alistair",False,NDP-New Democratic Party
+British Columbia,59012,Fleetwood–Port Kells,47039,47185,"Hardie, Ken",Liberal,False,"Hardie, Ken",False,Liberal
+Alberta,48027,Medicine Hat–Cardston–Warner,48414,48414,"Motz, Glen",Conservative,False,"Motz, Glen",False,Conservative
+British Columbia,59017,Mission–Matsqui–Fraser Canyon,43175,43175,"Vis, Brad",Conservative,False,"Vis, Brad",False,Conservative
+Alberta,48033,Sturgeon River–Parkland,66476,66476,"Lloyd, Dane",Conservative,False,"Lloyd, Dane",False,Conservative
+Alberta,48034,Yellowhead,50792,50792,"Soroka, Gerald",Conservative,False,"Manchen, Michael",True,People's Party - PPC
+British Columbia,59037,North Island–Powell River,60263,60263,"Blaney, Rachel",NDP-New Democratic Party,False,"Blaney, Rachel",False,NDP-New Democratic Party
+British Columbia,59035,Vancouver East,49591,49591,"Kwan, Jenny",NDP-New Democratic Party,False,"Kwan, Jenny",False,NDP-New Democratic Party
+British Columbia,59021,North Vancouver,59320,59320,"Wilkinson, Jonathan",Liberal,False,"Wilkinson, Jonathan",False,Liberal
+British Columbia,59023,Port Moody–Coquitlam,52091,52091,"Zarrillo, Bonita",NDP-New Democratic Party,False,"Zarrillo, Bonita",False,NDP-New Democratic Party
+British Columbia,59040,Vancouver South,40283,40283,"Sajjan, Harjit S",Liberal,False,"Sajjan, Harjit S",False,Liberal
+British Columbia,59028,Skeena–Bulkley Valley,37391,37391,"Bachrach, Taylor",NDP-New Democratic Party,False,"Bachrach, Taylor",False,NDP-New Democratic Party
+British Columbia,59041,Victoria,66748,66748,"Collins, Laurel",NDP-New Democratic Party,False,"Loughton, Nick",True,Green Party
+Yukon,60001,Yukon,16767,19406,"Hanley, Brendan",Liberal,False,"Dunlop, Barbara",True,Conservative
+British Columbia,59031,Steveston–Richmond East,38949,38949,"Bains, Parm",Liberal,False,"Bains, Parm",False,Liberal
+British Columbia,59033,Surrey–Newton,35982,36610,"Dhaliwal, Sukh",Liberal,False,"Dhaliwal, Sukh",False,Liberal
+British Columbia,59024,Prince George–Peace River–Northern Rockies,49197,49197,"Zimmer, Bob",Conservative,False,"Zimmer, Bob",False,Conservative
+British Columbia,59034,Vancouver Centre,51617,51617,"Fry, Hedy",Liberal,False,"Ouellette, Breen",True,NDP-New Democratic Party
+Alberta,48031,St. Albert–Edmonton,62340,62340,"Cooper, Michael",Conservative,False,"Mpulubusi, Kathleen",True,NDP-New Democratic Party
+British Columbia,59036,Vancouver Granville,49560,49560,"Noormohamed, Taleeb",Liberal,False,"Appadurai, Anjali",True,NDP-New Democratic Party
+Alberta,48032,Sherwood Park–Fort Saskatchewan,71115,71398,"Genuis, Garnett",Conservative,False,"Genuis, Garnett",False,Conservative
+British Columbia,59038,Vancouver Kingsway,40158,40158,"Davies, Don",NDP-New Democratic Party,False,"Davies, Don",False,NDP-New Democratic Party
+British Columbia,59003,Burnaby South,40312,40608,"Singh, Jagmeet",NDP-New Democratic Party,False,"Singh, Jagmeet",False,NDP-New Democratic Party
+British Columbia,59039,Vancouver Quadra,47705,47705,"Murray, Joyce",Liberal,False,"Murray, Joyce",False,Liberal
+British Columbia,59022,Pitt Meadows–Maple Ridge,52380,52833,"Dalton, Marc",Conservative,False,"Klapwyk, Phil",True,NDP-New Democratic Party
+British Columbia,59018,Nanaimo–Ladysmith,68765,68765,"Barron, Lisa Marie",NDP-New Democratic Party,False,"Manly, Paul",True,Green Party
+British Columbia,59020,North Okanagan–Shuswap,72397,72397,"Arnold, Mel",Conservative,False,"Arnold, Mel",False,Conservative
+Nunavut,62001,Nunavut,7189,7189,"Idlout, Lori",NDP-New Democratic Party,False,"Idlout, Lori",False,NDP-New Democratic Party
+Northwest Territories,61001,Northwest Territories,12304,14095,"McLeod, Michael",Liberal,False,"Kotchilea, Kelvin",True,NDP-New Democratic Party
+British Columbia,59025,Richmond Centre,34161,34161,"Miao, Wilson",Liberal,False,"Wong, Alice",True,Conservative
+British Columbia,59032,Surrey Centre,38386,38386,"Sarai, Randeep",Liberal,False,"Andhi, Sonia",True,NDP-New Democratic Party
+British Columbia,59009,Courtenay–Alberni,69250,69250,"Johns, Gord",NDP-New Democratic Party,False,"Johns, Gord",False,NDP-New Democratic Party
+British Columbia,59029,South Okanagan–West Kootenay,66780,66780,"Cannings, Richard",NDP-New Democratic Party,False,"Cannings, Richard",False,NDP-New Democratic Party
+British Columbia,59027,Saanich–Gulf Islands,65522,65522,"May, Elizabeth",Green Party,False,"May, Elizabeth",False,Green Party
+British Columbia,59042,West Vancouver–Sunshine Coast–Sea to Sky Country,63332,63459,"Weiler, Patrick",Liberal,False,"Weston, John",True,Conservative
+British Columbia,59001,Abbotsford,45050,45050,"Fast, Ed",Conservative,False,"Fast, Ed",False,Conservative
