@@ -192,7 +192,7 @@ def compile_election_results():
             district['party_to_names'][party] = [district['party_to_names'][party][0], district['party_to_names'][party][1]]
         district['votes'] = [[[k[0], k[1]], v] for k, v in district['votes'].items()]
         district['independents'] = [[k[0], k[1]] for k in district['independents']]
-    with open('results.json', 'w', encoding='utf-8') as fp:
+    with open('districts.json', 'w', encoding='utf-8') as fp:
         json.dump(districts_output, fp, indent=4)
     rows = []
     fptp_summary = defaultdict(int)
@@ -208,7 +208,7 @@ def compile_election_results():
     print()
     print_dict_as_table(rpv_summary, len(districts_to_process))
 
-    with open('report.csv', 'w', newline='', encoding='utf-8') as f:
+    with open('districts.csv', 'w', newline='', encoding='utf-8') as f:
         csv_writer = csv.DictWriter(f, districts_output[0].keys())
         csv_writer.writeheader()
         csv_writer.writerows(districts_to_process.values())
