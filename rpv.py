@@ -55,7 +55,8 @@ def process_district(district):
         district (dict): {'jurisdiction': jurisdiction, 'district_number': district_number, 'district_name': district_name, 'filename': filename}
 
     Returns:
-        dict: {**district, 'party_to_names': {}, 'party_proportions': {}, 'votes': defaultdict(int), 'independents': set()}
+        dict: {**district, 'party_to_names': {}, 'party_proportions': {}, 'votes': defaultdict(int), 'independents': set(),
+                           'total_votes': int, 'total_party_votes': int, 'fptp_votes_wasted': int}
     """
     district = {**district, 'party_to_names': {}, 'party_proportions': {}, 'votes': defaultdict(int), 'independents': set()}
     party_to_names = district['party_to_names']
@@ -99,6 +100,7 @@ def process_district(district):
     district['total_party_votes'] = total_party_votes
     district['total_votes'] = total_votes
     fptp_winner = max(district['votes'].items(), key=lambda t: t[1])
+    district['fptp_votes_wasted'] = sum(map(lambda item: item[1], filter(lambda item: item != fptp_winner, district['votes'].items())))
     assert fptp_winner[0] == fptp_winner_raw
     district['fptp_winner'] = f'{fptp_winner[0][1]}, {fptp_winner[0][0]}'
     district['fptp_party'] = fptp_party
@@ -112,12 +114,15 @@ def run_rpv(districts):
     total_votes = 0
     party_votes = defaultdict(int)
     seat_allocations = {}
+    total_votes_wasted = 0
+
     # aggregate party votes and set rpv winners when independents won
     for district in districts.values():
+        total_votes += district['total_votes']
+        total_party_votes += district['total_party_votes']
+        total_votes_wasted += district['fptp_votes_wasted']
         if not district['fptp_is_independent']:
             available_districts[district['district_number']] = district
-            total_party_votes += district['total_party_votes']
-            total_votes += district['total_votes']
             for party, name in district['party_to_names'].items():
                 party_votes[party] += district['votes'][name]
         else:
@@ -127,9 +132,6 @@ def run_rpv(districts):
             # print(f"INFO: An independent won {district['district_number']} - {district['district_name']}")
     # ceil to make it nice on eyes and because no half votes
     hare_quota = math.ceil(total_party_votes / len(available_districts))
-    print(f'INFO: Hare quota is {hare_quota:,}')
-    print(f'INFO: Total votes is {total_votes:,}')
-    print(f'INFO: Total votes to parties is {total_party_votes:,}')
     # allocate seats to parties remaining
     parties_summary = []
     for party, votes in party_votes.items():
@@ -144,6 +146,11 @@ def run_rpv(districts):
     parties_summary.sort(key=lambda t: t[1], reverse=True)
     for summary in parties_summary:
         print(f'| {summary[0]} | {summary[1]:,} | {summary[1] / total_votes * 100:.2f}%')
+    print('---')
+    print(f'INFO: Hare quota is {hare_quota:,}')
+    print(f'INFO: Total votes is {total_votes:,}')
+    print(f'INFO: Total votes to parties is {total_party_votes:,}')
+    print(f'INFO: Total votes wasted due to FPTP is {total_votes_wasted:,} ({total_votes_wasted / total_votes * 100:.2f}%)')
     seats_allocated = len(seat_allocations)
     while seats_allocated < len(available_districts):
         party_to_allocate = max(seat_allocations, key=lambda party: priority_calc(party_votes[party], seat_allocations[party]))
