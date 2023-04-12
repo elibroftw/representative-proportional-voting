@@ -157,7 +157,8 @@ def run_rpv(districts):
         seat_allocations[party_to_allocate] += 1
         seats_allocated += 1
     # yields (party, seats_allocated) on every next
-    distribution_order = cycle(sorted(seat_allocations.keys(), key=lambda party: seat_allocations[party]))
+    # sort order is ascending seats. break ties based on votes so that the party with less votes can't get more seats
+    distribution_order = cycle(sorted(seat_allocations.keys(), key=lambda party: (seat_allocations[party], -party_votes)))
     import time
     while available_districts:
         party = next(distribution_order)
